@@ -1,0 +1,97 @@
+body {
+    background-image: url("../images/backgroundgrn.png");
+}
+
+.bodyinfo {
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+}
+
+.info {
+    border: solid black 2px;
+    padding: 15px;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+p {
+    text-align: justify;
+}
+
+.header {
+    font-size: 50px;
+    text-align: center;
+    font-family: 'Russo One', sans-serif;
+}
+
+.randnum {
+    border: solid black 2px;
+    font-family: 'Russo One', sans-serif;
+}
+
+.randnum-text {
+    height: 73px;
+    line-height: 73px;
+}
+
+.random-number {
+    line-height: 73px;
+    font-family: 'Russo One', sans-serif;
+    font-size: 40px;
+    text-align: center;
+}
+
+.scoreboard {
+    border: solid black 2px;
+    font-family: 'Russo One', sans-serif;
+    font-size: 24px;
+    text-align: center;
+}
+
+.score-text {
+    font-family: 'Russo One', sans-serif;
+    font-size: 40px;
+    text-align: right;
+}
+
+.totalscore {
+    font-family: 'Russo One', sans-serif;
+    font-size: 40px;
+    text-align: left;
+}
+
+.green {
+    background-image: url(../images/greengem.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 150px;
+    width: 125px;
+}
+
+.pink {
+    background-image: url(../images/pinkgem.jpeg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 150px;
+    width: 125px;
+}
+
+.blue {
+    background-image: url(../images/bluegem.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 150px;
+    width: 125px;
+}
+
+.yellow {
+    background-image: url(../images/yellowgem.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 150px;
+    width: 125px;
+}
